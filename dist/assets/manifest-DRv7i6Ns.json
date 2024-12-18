@@ -1,8 +1,0 @@
-{
-    "name": "抽奖",
-    "short_name": "Drew",
-    "start_url": "/",
-    "display": "standalone",
-    "theme_color":"#ffffff",
-    "background_color": "#ffffff"
-}
